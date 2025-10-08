@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: Ensava
+owner: bigfnduke698
+package: .
